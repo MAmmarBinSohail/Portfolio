@@ -11,7 +11,7 @@
 
 ### 🧭 About Me
 
-I'm a final-year **BS Software Engineering** student at PUCIT, Lahore, with a strong foundation in software design principles and architecture, and hands-on experience across **Machine Learning, Deep Learning, and full-stack web development**. I enjoy building data-driven, real-world solutions and am growing my interest in cloud technologies. Currently looking for **Software Engineering / ML Engineering roles and internships**.
+Aspiring Software Engineer with a strong foundation in software principles, architectures, and design patterns, complemented by hands-on experience in Machine Learning, Deep Learning, and full-stack web development. Skilled in building data-driven solutions using modern frameworks and libraries, with growing interests in cloud technologies. Passionate about solving realworld problems, eager to learn continuously, collaborate effectively, and contribute to innovative projects in a growth-driven environment
 
 - 🔭 Currently building **ScholarBuzz** — an AI-powered scholarship recommendation platform (Final Year Project)
 - 🌱 Currently deepening my skills in **Cloud (AWS, Docker)** and **scalable backend architecture**
