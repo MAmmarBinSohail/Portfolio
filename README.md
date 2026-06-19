@@ -62,9 +62,9 @@ Aspiring Software Engineer with a strong foundation in software principles, arch
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🎓 **[ScholarBuzz](https://github.com/MAmmarBinSohail/ScholarBuzz)** | AI-powered scholarship recommendation platform with resume parsing, eligibility scoring, and deadline-aware notifications. *(Final Year Project)* | ASP.NET Core, SQL Server, ML scoring engine |
+| 🎓 **[ScholarBuzz](https://github.com/MAmmarBinSohail/ScholarBuzz)** | AI-powered scholarship recommendation platform with resume parsing, eligibility scoring, and deadline-aware notifications. | ASP.NET Core, SQL Server, ML scoring engine |
 | 🤖 **[SmartCare](https://github.com/MAmmarBinSohail/SmartCare-Gesture-Monitoring)** | Gesture-recognition system for elderly safety using accelerometer/gyroscope data — 98.89% accuracy with Random Forest. | Python, Scikit-Learn, PyTorch |
-| 🧑‍🏫 **[GuideMe](https://github.com/MAmmarBinSohail/GuideMe)** | Online counseling & mentorship platform with session booking and an integrated AI chatbot for guidance. | ASP.NET Core, SQL Server |
+| 🧑‍🏫 **[GuideMe](https://github.com/MAmmarBinSohail/GuideMe)** | Online counseling & mentorship platform with session booking and an integrated AI chatbot for guidance. | Supabase, React.js, PostgreSQL, RestAPI |
 | 👁️ **[VisionGuard](https://github.com/MAmmarBinSohail/VisionGuard)** | CNN-based human presence detector built with manual forward/backward propagation in NumPy — 91.41% test accuracy. | Python, NumPy, Deep Learning |
 | 🎨 **[Video Colorization](https://github.com/MAmmarBinSohail/Video-Colorization)** | Automated pipeline that colorizes grayscale video using a pre-trained Caffe model and OpenCV. | Python, OpenCV, Caffe |
 
