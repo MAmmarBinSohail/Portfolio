@@ -13,7 +13,7 @@
 
 Aspiring Software Engineer with a strong foundation in software principles, architectures, and design patterns, complemented by hands-on experience in Machine Learning, Deep Learning, and full-stack web development. Skilled in building data-driven solutions using modern frameworks and libraries, with growing interests in cloud technologies. Passionate about solving realworld problems, eager to learn continuously, collaborate effectively, and contribute to innovative projects in a growth-driven environment
 
-- 🔭 Currently building **ScholarBuzz** — an AI-powered scholarship recommendation platform (Final Year Project)
+- 🔭 Currently building **GuideMe** — a Smart Online Counselling & Mentorship Platform.
 - 🌱 Currently deepening my skills in **Cloud (AWS, Docker)** and **scalable backend architecture**
 - 💼 Recently worked as a **Business Application Intern** at LITS Services, building secure authentication systems with ASP.NET MVC
 - 📫 Reach me at **ammaar.warsi02@gmail.com**
